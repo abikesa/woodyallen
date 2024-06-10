@@ -3,6 +3,7 @@
                   2. Pentatonic -> 4. Chromatic -> 5. Temperament -> 6. Expression
                                    /
                                    3. Diatonic
+
 1. Root
 2. Pentatonic
 3. Diatonic
@@ -18,6 +19,8 @@
     - Existential. Only intellectual. No convincing characters (Chigurh, A Serious Man, The Dude)  
 
 Sure, here's a table summarizing the subsections of "Hannah and Her Sisters," along with the key character and a brief description:
+
+# Markdown
 
 | Subsection Title                  | Key Character | Essence                                  |
 |-----------------------------------|---------------|------------------------------------------|
@@ -42,6 +45,8 @@ Sure, here's a table summarizing the subsections of "Hannah and Her Sisters," al
 | That Was Then                     | All           | Concluding reflections and resolutions.  |
 
 This table captures the key elements of each subsection concisely.
+
+<h1>HTML</h1>
 
 <table>
   <tr style="background-color: #f2f2f2;">
