@@ -4,22 +4,20 @@
                                    /
                                    3. Diatonic
 
-### Dionysus 1, 2, 3
+### Dionysus/Personal 1, 2, 3
 - Melody
-  - Personal
-    - Emasculated dad
-      - [Mummy issues](https://unherd.com/2020/03/the-idiotic-mistreatment-of-woody-allen/)
-    - Just like Tarantino 
-    - Fond of younger sister
+  - Emasculated dad
+     - [Mummy issues](https://unherd.com/2020/03/the-idiotic-mistreatment-of-woody-allen/)
+  - Just like Tarantino 
+  - Fond of younger sister
 
-### Sing O Muse 4
+### [Sing O Muse](https://abikesa.github.io/music/)/Existential 4
 - Dissonance
-- Existential
   - Only intellectual
   - No convincing characters
   - We have no Chigurh, A Serious Man, The Dude
   
-### Apollo 5, 6
+### Apollo/Social 5, 6
 - Harmony
-  - Social
+ 
     
